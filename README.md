@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathanByersBetterbytes
 - 👀 I’m interested in full stack web applications
 - 🌱 I’m currently learning in the 100Devs program
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full stack web applications
 - 📫 How to reach me jonathankbyers@gmail.com
 
 <!---
